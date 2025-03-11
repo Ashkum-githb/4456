@@ -12,7 +12,8 @@ Employee Performance Prediction is a project aimed at predicting the performance
 ## Installation
 To get started with the project, clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/vishalmaurya850/EmployeePerformancePrediction.git
+git clone
+https://github.com/Ashkum-githb/Employee-performance-prediction-.git
 ```
 ```bash
 cd EmployeePerformancePrediction
@@ -40,7 +41,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any questions or feedback, please reach out to
 ```bash
-vishalmaurya850@example.com.
+ak0005076@example.com.
 ```
 
 ## View Live Website
