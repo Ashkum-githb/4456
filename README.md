@@ -41,7 +41,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any questions or feedback, please reach out to
 ```bash
-ak0005076@example.com.
+ak0005076@gmail.com.
 ```
 
 ## View Live Website
